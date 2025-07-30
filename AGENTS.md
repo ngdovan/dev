@@ -6,7 +6,6 @@
 
 ## Testing
 - Run pytest tests/ before finalizing a PR.
-- All commits must pass lint checks via flake8.
 
 ## PR Instructions
 - Title format: [Fix] Short description
